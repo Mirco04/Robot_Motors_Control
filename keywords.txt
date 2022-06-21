@@ -1,0 +1,11 @@
+Robot		KEYWORD1
+Motor1Pins()    KEYWORD2
+Motor2Pins() 	KEYWORD3
+Motor3Pins()	KEYWORD4
+Motor4Pins()	KEYWORD5
+
+goForwards()    KEYWORD6
+goBackwards() 	KEYWORD7
+steerLeft()	KEYWORD8
+steerRight()	KEYWORD9
+Stop()		KEYWORD10
